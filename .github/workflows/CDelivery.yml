@@ -1,5 +1,5 @@
 env:
-  repo: "https://github.dev/Rybitska/artemis"
+  repo: "https://github.dev/Rybitska/artemis.git"
   app_version: "1.0.0"
   project_id: "egasycrhnulnopxx"
   repo_region: "us-central1"
